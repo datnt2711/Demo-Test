@@ -1,0 +1,118 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S22 Ultra",
+      "categories": "1",
+      "description": "Samsung Galaxy S22 Ultra",
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142436/anhhtus/%C4%90%E1%BB%81%20thi/sm-s908_galaxys22ultra_front_burgundy_211119_1_mccaah.jpg",
+      "sale price": "",
+      "regular price": "",
+      "rating": ""
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S22 Ultra",
+      "categories": "1",
+      "description": "Samsung Galaxy S22 Ultra",
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142436/anhhtus/%C4%90%E1%BB%81%20thi/sm-s908_galaxys22ultra_front_burgundy_211119_1_mccaah.jpg",
+      "sale price": "",
+      "regular price": "",
+      "rating": ""
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy S22 Ultra",
+      "categories": "1",
+      "description": "Samsung Galaxy S22 Ultra",
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142436/anhhtus/%C4%90%E1%BB%81%20thi/sm-s908_galaxys22ultra_front_burgundy_211119_1_mccaah.jpg",
+      "sale price": "",
+      "regular price": "",
+      "rating": ""
+    },
+    {
+      "name": "Iphone 11 Pro Max",
+      "categories": "1",
+      "description": "Iphone 11 Pro  Max 1TB",
+      "id": 4
+    },
+    {
+      "name": "asdasd",
+      "categories": "2",
+      "description": "asdasd",
+      "id": 5
+    },
+    {
+      "name": "asdasdad",
+      "categories": "3",
+      "description": "asdasdad",
+      "id": 6
+    },
+    {
+      "name": "asdad",
+      "categories": "3",
+      "description": "adsasd",
+      "id": 7
+    },
+    {
+      "name": "asasdad",
+      "category": "1",
+      "des": "asdasdasd12312313",
+      "id": 8
+    },
+    {
+      "name": "asdad",
+      "categories": "3",
+      "description": "asdad",
+      "id": 9
+    },
+    {
+      "name": "asdasd",
+      "categories": "4",
+      "description": "asdad",
+      "id": 10
+    },
+    {
+      "name": "asdad",
+      "categories": "4",
+      "description": "ada12313",
+      "id": 11
+    },
+    {
+      "name": "",
+      "categories": "Iphone",
+      "description": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "categories": "Iphone",
+      "description": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "categories": "Iphone",
+      "description": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "categories": "Iphone",
+      "description": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "categories": "Iphone",
+      "description": "",
+      "id": 16
+    },
+    {
+      "name": "asdasd",
+      "categories": "Iphone",
+      "description": "asdasd",
+      "id": 17
+    }
+  ]
+}
